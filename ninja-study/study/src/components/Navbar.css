@@ -1,0 +1,38 @@
+section{
+    padding-bottom: 2rem;
+    min-height: 90vh;
+    margin: auto;
+  }
+
+.home{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+ 
+  .home .image{
+    padding-top: 2rem;
+    flex:1 1 30rem;
+    margin: auto;
+    /* background-color: rgb(4, 255, 0); */
+  }
+  .home .content{
+    /* padding:2rem; */
+    flex:1 1 30rem;
+    /* background-color: rgb(255, 0, 0); */
+  }
+
+  .home .content h3{
+    font-size: 3rem;
+    font-weight: 700;
+    margin-top: 20px;}
+
+
+    .home .image img{
+        width:90%;
+        margin: auto;
+      }
+    .home .content ul {
+        
+    } 
+     
